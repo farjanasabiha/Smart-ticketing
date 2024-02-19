@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.pryColor {
+  color: #1dd100;
+}
+
+.textColor {
+  color: #030712;
+}
+
+.weab-text {
+  font-family: "Raleway", sans-serif;
+}
+
+section {
+  margin-top: 80px;
+}
+
+.buttonColor {
+  background: #1dd100 !important;
+}/*# sourceMappingURL=style.css.map */
